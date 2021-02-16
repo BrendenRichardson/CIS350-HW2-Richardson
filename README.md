@@ -1,13 +1,11 @@
 ## Brenden Richardson
 
-* Hiking 
-* Nature Photography
+* Network Systems
+* Hiking & Photography
 * Big Data
 
 ### Technical Background
 
-* C
-* Java
-* Python
+I am proficient in Java and have experience in C and Python.
 
-[CatAtDinnerTable](https://i.kym-cdn.com/entries/icons/original/000/030/157/womanyellingcat.jpg)
+[CatLoading](https://i.redd.it/ph2p94qe59351.jpg)
