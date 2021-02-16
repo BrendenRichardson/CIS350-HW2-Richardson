@@ -1,4 +1,3 @@
-i CIS350-HW2-Richardson
 ## Brenden Richardson
 
 * Hiking 
